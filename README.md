@@ -1,4 +1,4 @@
-# Muhammadabdulloh 👨‍💻
+# Muhammadabdulloh 
 
 ### Frontend Developer
 
@@ -10,7 +10,7 @@
 ## 🚀 Connect with me:
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/muhammadabdulloh](https://www.linkedin.com/in/muhammad-abdulloh-mannobjonov-a451aa260?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/muhammad-abdulloh-mannobjonov-a451aa260?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:abdulloh2003and@gmail.com" target="_blank" rel="noreferrer">
@@ -67,6 +67,7 @@
 </p>
 
 ---
+
 
 ### 🌟 A Few Highlights:
 - 💻 **Frontend Development** enthusiast who loves creating dynamic and beautiful web pages.
