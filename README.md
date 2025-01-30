@@ -1,14 +1,28 @@
-# Muhammadabdulloh
+# Muhammadabdulloh 👨‍💻
 
-### Frontend Developer 👨‍💻
+### Frontend Developer
 
 - 🌱 I’m currently learning **HTML**, **CSS**, **JavaScript**, **SASS**
 - 📫 How to reach me: **abdulloh2003and@gmail.com**
 
 ---
 
-### Languages and Tools:
-<p align="left">
+## 🚀 Connect with me:
+
+<p align="center">
+  <a href="[https://www.linkedin.com/in/muhammadabdulloh](https://www.linkedin.com/in/muhammad-abdulloh-mannobjonov-a451aa260?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:abdulloh2003and@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+## 🛠 Languages & Tools:
+
+<p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
   </a>
@@ -46,4 +60,15 @@
 
 ---
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadabdulloh&show_icons=true&theme=radical&locale=en" alt="Muhammadabdulloh's GitHub Stats"/>
+</p>
+
+---
+
+### 🌟 A Few Highlights:
+- 💻 **Frontend Development** enthusiast who loves creating dynamic and beautiful web pages.
+- 💡 Passionate about learning and experimenting with new technologies.
+- 🚀 Currently working on some **React** and **JavaScript** projects to enhance my skills.
